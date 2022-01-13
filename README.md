@@ -4,7 +4,8 @@ it's an app that saves your contacts in a data base and you can view you saved c
 
 to try it out, you need python installed on your machine with and ide to open and view the code
 
-you don't need to install libraries since tkinter ans sqlite3 comes with python :)
+Depending on your verion of python and os likewise you may or you may not need to install libraries since tkinter ans sqlite3 comes with python :)
+But to install the libraries is not hard task, either search it on google or use pip install (name of lib). 
 
 just make sure both files are in the same folder when you open them
 
